@@ -4,4 +4,5 @@ streamlit
 pandas
 h5py
 sklearn
+matplotlib
 scikit-learn
