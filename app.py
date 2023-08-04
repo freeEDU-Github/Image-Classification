@@ -75,7 +75,7 @@ def main():
     ax2.set_xticklabels(class_names, rotation=90)
     st.pyplot(fig)
 
-    # Display the image
+    
     st.subheader("Image")
     st.image(x_test[i], caption=class_names[y_test[i]])
 
